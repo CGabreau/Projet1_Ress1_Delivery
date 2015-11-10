@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.804148446/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.804148446/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.804148446/PATH/value=C\:/Program Files/Java/jre1.8.0_25/bin/client;C\:/Program Files/Java/jre1.8.0_25/bin;C\:/Program Files/Java/jre1.8.0_25/lib/i386;C\:/MinGW/bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files\\EasyPHP-DevServer-14.1VC11\\binaries\\php\\php_runningversion;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Intel\\WiFi\\bin\\;C\:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C\:\\Program Files\\Intel\\DMIX;C\:\\wamp\\bin\\php\\php5.4.3;C\:\\Program Files\\Java\\jdk1.8.0_05\\bin;C\:\\Program Files\\TortoiseSVN\\bin;C\:\\Users\\safetysoft2\\eclipse
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.804148446/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.804148446/appendContributed=true
